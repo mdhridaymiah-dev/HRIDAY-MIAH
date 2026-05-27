@@ -1,0 +1,8 @@
+{
+  "name": "Fish Farm",
+  "description": "Enterprise multi-project fish farm management software featuring share tracking, hybrid approvals, profit distribution, and real-time localization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
